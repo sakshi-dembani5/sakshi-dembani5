@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Sakshi Dembani
 
-<!--
-**sakshi-dembani5/sakshi-dembani5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student at SSIPMT, Raipur
 
-Here are some ideas to get you started:
+💻 Passionate about Android Development, Full Stack Development and building real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- Android Development
+- React.js
+- Node.js
+- Firebase
+- Data Structures & Algorithms
+
+## 🚀 Current Projects
+
+- 🛍️ Myntra Clone (React.js)
+- 🚗 GenZafe – Smart Ride Sharing Application (Work in Progress)
+
+## 🛠️ Tech Stack
+
+- Java
+- Python
+- JavaScript
+- C
+- C++
+- HTML
+- CSS
+- React.js
+- Node.js
+- Firebase
+- MongoDB
+- Git
+- GitHub
+
+## 🎯 Career Goal
+
+To become a Software Engineer by building impactful products and continuously improving my technical skills.
+
+📫 Reach me at: **sakshidembani@gmail.com**
